@@ -1,0 +1,132 @@
+.one{
+    display: flex;
+    padding-left: 6%;
+    padding-right: 4%;
+    padding-top: 2%;
+    padding-bottom: 8%;
+}
+body{
+    font-family: 'Montserrat';
+font-style: normal;
+}
+.half-one{
+    width: 50%;
+}
+.first-h1{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 60px;
+line-height: 130%;
+/* or 78px */
+
+letter-spacing: -0.02em;
+}
+span{
+    color: #f42192f6;
+}
+.first-para{
+    font-size: 25px;
+    color:rgb(67, 66, 66);
+}
+.button{
+    font-size: 20px;
+    border: none;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 28px;
+    gap: 16px;
+
+    position: absolute;
+    width: 180px;
+    height: 65px;
+    background-color: #f42192f6;
+    border-radius: 90px;
+    color:white;
+}
+.two{
+    display: flex;
+    padding-left: 6%;
+    padding-right: 4%;
+    padding-top: 2%;
+    padding-bottom: 8%;
+    margin-top: 5%;
+    background-image: url(images/shapes/Frame\ 59.jpg);
+    background-size: cover;
+    height: 350px;
+}
+.half-two{
+    width: 50%;
+}
+.half-two img{
+    width: 50%;
+    padding-bottom: 0;
+}
+sceond-h1{
+    padding-top: 25%;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-size: 45px;
+}
+.sceond-para{
+    font-size: 22px;
+    color:rgb(67, 66, 66);
+    text-align: justify;
+}
+.three{
+    text-align: center;
+    padding: 5% 10%;
+}
+.four{
+    display:flex;
+    margin: 20px;
+    padding-left: 7%;
+    padding-right: 7%;
+}
+.box{
+    width: 80%;
+    height: 400px;
+    padding: 2%;
+    padding-bottom: 0;
+    border: 2px solid white;
+    border-radius: 30px;
+    margin: 10px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.15);
+}
+.box img{
+    width: 100%;
+height: 40%;
+}
+.h1box{
+    padding-top: 10px;
+}
+.five{
+
+    display: flex;
+    text-align: center;
+    padding-left: 6%;
+    padding-right: 6%;
+    border: 10px solid white;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 100px;
+    margin-bottom: 60px;
+    border-radius: 20px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.15);
+}
+.item{
+   height: 150px; 
+   padding-left: 40px;
+   padding-right: 40px;
+}
+footer
+{   
+    text-align: center;
+    background-color: #0B0D17;
+    padding-bottom: 5%;
+    padding-top: 2%;
+    color: #FFFFFF;
+}
